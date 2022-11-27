@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  age: 1
+  birthdate: 2022-11-23
+  checkin: 2022-11-23 17:12:57
+  admin: false
+
+two:
+  name: MyString
+  age: 1
+  birthdate: 2022-11-23
+  checkin: 2022-11-23 17:12:57
+  admin: false
